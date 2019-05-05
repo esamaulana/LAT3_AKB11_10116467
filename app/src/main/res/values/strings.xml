@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NavDraw</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="quoted">NavDraw adalah sebuah aplikasi yang sangat membantu dalam kegiatan sehari hari</string>
+    <string name="deskripsi_diri">Esa maulana adalah seseorang kakak dari dua orang bersaudara. seseorang yang pernah bercita cita menjadi pemadam kemakaran sampai sekarang, tetapi sadar betama kerasnya kehidupan</string>
+
+</resources>
